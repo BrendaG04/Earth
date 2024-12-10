@@ -1,6 +1,6 @@
 hello world
 world
 test
-sky Low
+sky stars Low
 test low
 blue
